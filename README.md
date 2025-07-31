@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration Form</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
 </head>
 <body>
   <div class="container">
   <div class="header">
+
 <div class="image-container">
 <img src="file:///E:/Downloads/athlete-doing-push-ups.jpg" 
+
 alt="Placeholder Image for calisthenics/Fitness" width="400">
+
   </div>
   <div class="text-content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie tincidunt bibendum. 
-  <p></p>Praesent placerat tellus nisi, eu ornare eros ultrices et. Nam suscipit non ipsum at semper. <span>Vivamus</span></p>
-  </div>
+  <p>
+  <p>Praesent placerat tellus nisi, eu ornare eros ultrices et. Nam suscipit non ipsum at semper. <span>Vivamus</span></p>
   </div>
 <form class="registration-form">
   <div class="form-group">
