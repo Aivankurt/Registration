@@ -5,10 +5,10 @@
         <table cellpadding="10">
             <tr>
                 <td colspan="1">
-                    <img src="https://tse2.mm.bing.net/th/id/OIP.CkUBR0FOgkZUrkrIrATtFwHaHa?pid=Api&P=0&h=220" alt="Gubby :D"                         height="150">
+                    <img src="https://www.verywellfit.com/thmb/7G77UWuA2bDMIi5BhO-Pl-ZuIFs=/4606x3071/filters:fill(FFDB5D,1)/men-running-on-the-gym-treadmill-171582786-5ad7eab41f4e130038eae6f6.jpg" alt="Gubby :D"                         height="150">
                 </td>
                 <td colspan="2">
-                    <p>Do you want a pet that's better than any animals? Adopt a Gubby<br> that is cuter than any! Just your                      name, address, email address,<br> and contact number. Only for a limited time so get your's<br> now very worth-it                     and cheap!<br></p>
+                    <p>Do you want a strong and flexible muscles? Join Fitness Program<br> That will be held this August,5,2025 Just your put your name, address, email address,<br> and contact number. Only for a limited time so get your's<br> now very worth-it                     and cheap!<br></p>
                 </td>
             </tr>
             <tr>
@@ -28,11 +28,11 @@
                 <td>Email Address:</td>
                 <td><input type="email" name="email"></td>
                 <td>Accessories:</td>
-                <td><input type="checkbox" name="accessories" value="Pancake hat">Pancake Hat<br>
-                <input type="checkbox" name="accessories" value="Gubby Boots">Gubby Boots<br>
-                <input type="checkbox" name="accessories" value="Floppa Outfit">Floppa Outfit<br>
-                <input type="checkbox" name="accessories" value="Fisherman Hat">Fisherman Hat<br>
-                <input type="checkbox" name="accessories" value="jetpack">Jetpack
+                <td><input type="checkbox" name="Hobbies:" value="Swimming">Swimming<br>
+                <input type="checkbox" name="accessories" value="Biking">Biking<br>
+                <input type="checkbox" name="accessories" value="Reading">Reading<br>
+                <input type="checkbox" name="accessories" value="Watching TV">Watching TV<br>
+                <input type="checkbox" name="accessories" value="Playing">Playing<br>
                 </td>
             </tr>
             <tr>
