@@ -9,7 +9,8 @@
   <div class="container">
   <div class="header">
 <div class="image-container">
-<img src="file:///E:/Downloads/athlete-doing-push-ups.jpg" alt="Placeholder Image for calisthenics/Fitness" width="365">
+<img src="file:///E:/Downloads/athlete-doing-push-ups.jpg" 
+alt="Placeholder Image for calisthenics/Fitness" width="400">
   </div>
   <div class="text-content">
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie tincidunt bibendum. 
